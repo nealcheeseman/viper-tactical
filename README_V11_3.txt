@@ -1,1 +1,0 @@
-V11.3 Tactical Dashboard. Large tactical display, wind +/- controls, ETA, burn time, start-end display. Locked GPS/timer/marks.
