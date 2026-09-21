@@ -1,8 +1,1 @@
-{
-  "name": "Viper Tactical",
-  "short_name": "Viper",
-  "display": "standalone",
-  "start_url": "./index.html",
-  "background_color": "#08121f",
-  "theme_color": "#08121f"
-}
+{"name": "Viper Tactical V2", "short_name": "Viper", "display": "standalone", "start_url": "index.html", "theme_color": "#0b1726", "background_color": "#0b1726"}
