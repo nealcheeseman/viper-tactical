@@ -1,3 +1,6 @@
-V10.4
-- Fixed count-up timer transition
-- Added GO -> RACE TIME flow
+V11 Phase1
+- Added tactical dashboard
+- Added line distance
+- Added ETA
+- Added burn time
+- Added boat/pin end bias
