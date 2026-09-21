@@ -1,6 +1,1 @@
-V11 Phase1
-- Added tactical dashboard
-- Added line distance
-- Added ETA
-- Added burn time
-- Added boat/pin end bias
+V11.1 diagnostics build
