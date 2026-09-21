@@ -1,1 +1,3 @@
-V11.1 diagnostics build
+V11.2
+- Fixed dashboard rendering
+- Added tactical metrics panel
